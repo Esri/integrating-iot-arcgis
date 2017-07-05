@@ -11,13 +11,13 @@ This repository is intended as a way to share the content presented during the E
 &nbsp;&nbsp;&nbsp;&nbsp; - (Josh, 10) Edge direct to ArcGIS demonstation [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Marten, 10) Edge aggregated to ArcGIS demonstration [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Josh, 10) IoT platform to ArcGIS demonstration [<a href="TODO">video</a>]<br>
-- Complimenting an IoT solution with geospatial analytic capabilities [<a href="https://esri.box.com/s/espj1rxqafb1j51t66ykp2lexnfye6p8">slides</a>, <a href="TODO">video</a>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - (Josh) Real-Time spatiotemporal analytics demonstration[<a href="TODO">video</a>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - (Adam) Big Data spatiotemporal analytics demonstration[<a href="TODO">video</a>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - (Josh) Actuation demostration [<a href="TODO">video</a>]<br>
-- Handling IoT scale requirements [<a href="https://esri.box.com/s/ehcdhpbw4en13ph1ixsk2rqpwrtvbzm0">slides</a>, <a href="TODO">video</a>]<br>
+- (Adam 35 | 2:45-3:55) Complimenting an IoT solution with geospatial analytic capabilities [<a href="https://esri.box.com/s/espj1rxqafb1j51t66ykp2lexnfye6p8">slides</a>, <a href="TODO">video</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - (Josh, 10) Real-Time spatiotemporal analytics demonstration [<a href="TODO">video</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - (Adam, 5) Big Data spatiotemporal analytics demonstration [<a href="TODO">video</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - (Josh, 20) Actuation demonstration [<a href="TODO">video</a>]<br>
+- (Adam 45 | 3:55-4:40) Handling IoT scale requirements [<a href="https://esri.box.com/s/ehcdhpbw4en13ph1ixsk2rqpwrtvbzm0">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Adam) Handling IoT scale requirements demonstration [<a href="TODO">video</a>]<br>
-- Trends on the horizon [<a href="https://esri.box.com/s/josxra2o6b1ypa6syqsq1lqh6mayrjn4">slides</a>, <a href="TODO">video</a>]<br>
+- (Adam 10 | 4:40-4:50) Trends on the horizon [<a href="https://esri.box.com/s/josxra2o6b1ypa6syqsq1lqh6mayrjn4">slides</a>, <a href="TODO">video</a>]<br>
 
 
 
