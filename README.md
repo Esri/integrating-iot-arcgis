@@ -3,7 +3,7 @@
 This repository is intended as a way to share the content presented during the Esri User Conference, help users better understand or reproduce the demostrations presented, and allow for continuing feedback and discussion with the Real-Time GIS development team at Esri.
 
 - Agenda [<a href="https://esri.box.com/s/bchtawkhjdadivu1bqb7p1hn7ylkh908">slides</a>, <a href="TODO">video</a>] (Marten, 45 8:30-9:15)<br>
-- What is the IoT? [<a href="https://esri.box.com/s/clhplnmgixmo954kgglki8i7yc7yf16o">slides</a>, <a href="TODO">video</a>] (Josh, 20 9:15-9:35 | Marten, 40 9:35-10:15)<br>
+- What is the IoT? [<a href="https://esri.box.com/s/clhplnmgixmo954kgglki8i7yc7yf16o">slides</a>, <a href="TODO">video</a>] <i>(Josh, 20 9:15-9:35 | Marten, 40 9:35-10:15)</i><br>
 - Decomposing an IoT Solution [<a href="https://esri.box.com/s/zjrkk0my1gs01q6rncp2mtl9i0r67jau">slides</a>, <a href="TODO">video</a>] (Adam, 45 | 10:15-10:30, 10:45-11:15)<br>
 - ArcGIS & the IoT [<a href="https://esri.box.com/s/wyv1j23xc4s3vsyrdsuylka0jvj8icau">slides</a>, <a href="TODO">video</a>] (Adam, 75 | 11:15-12:00, 1:00-1:30)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Real-Time GIS visualization & replay demonstration [<a href="TODO">video</a>] (Adam, 8) <br>
