@@ -14,4 +14,4 @@ This repository is intended as a way to share the content presented during the E
  * [Trends on the horizon](http://www.esri.com/products/arcgis-capabilities/real-time-gis)
 
 ### Demos
-Instructions, setup details, and additional details regarding the demos presented during the seminar an session.
+Instructions, setup details, and additional details regarding the demos presented during the seminar and session.
