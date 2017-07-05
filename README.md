@@ -4,7 +4,7 @@ This repository is intended as a way to share the content presented during the E
 
 
 - Agenda [<a href="https://esri.box.com/s/bchtawkhjdadivu1bqb7p1hn7ylkh908">slides</a>, <a href="TODO">video</a>]<br>
-- Evolution of ArcGIS & the IoT [<a href="https://esri.box.com/s/wyv1j23xc4s3vsyrdsuylka0jvj8icau">slides</a>, <a href="TODO">video</a>]
+- Evolution of ArcGIS & the IoT [<a href="https://esri.box.com/s/wyv1j23xc4s3vsyrdsuylka0jvj8icau">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;nbsp;&nbsp; - (Adam) Real-Time GIS visualization & replay demonstration [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;nbsp;&nbsp; - (Adam) Big Data GIS analysis [<a href="TODO">video</a>]<br>
 3. What is the IoT? [<a href="https://esri.box.com/s/clhplnmgixmo954kgglki8i7yc7yf16o">slides</a>, <a href="TODO">video</a>]<br>
