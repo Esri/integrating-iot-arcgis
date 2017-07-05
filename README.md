@@ -3,9 +3,9 @@
 This repository is intended as a way to share the content presented during the Esri User Conference, help users better understand or reproduce the demostrations presented, and allow for continuing feedback and discussion with the Real-Time GIS development team at Esri.
 
 - Agenda [<a href="https://esri.box.com/s/bchtawkhjdadivu1bqb7p1hn7ylkh908">slides</a>, <a href="TODO">video</a>] <i>(Marten, 45 8:30-9:15)</i><br>
-- What is the IoT? [<a href="https://esri.box.com/s/clhplnmgixmo954kgglki8i7yc7yf16o">slides</a>, <a href="TODO">video</a>] <i>(Josh, 20 9:15-9:35 | Marten, 40 9:35-10:15)</i><br>
-- Decomposing an IoT Solution [<a href="https://esri.box.com/s/zjrkk0my1gs01q6rncp2mtl9i0r67jau">slides</a>, <a href="TODO">video</a>] <i>(Adam, 45 | 10:15-10:30, 10:45-11:15)</i><br>
-- ArcGIS & the IoT [<a href="https://esri.box.com/s/wyv1j23xc4s3vsyrdsuylka0jvj8icau">slides</a>, <a href="TODO">video</a>] <i>(Adam, 75 | 11:15-12:00, 1:00-1:30)</i><br>
+- What is the IoT? [<a href="https://esri.box.com/s/apsidwlfxp2ak34nfhf45wtcgaitvear">slides</a>, <a href="TODO">video</a>] <i>(Josh, 20 9:15-9:35 | Marten, 40 9:35-10:15)</i><br>
+- Decomposing an IoT Solution [<a href="https://esri.box.com/s/21eyz4e3wettsn808shzdq3zxbmgkd26">slides</a>, <a href="TODO">video</a>] <i>(Adam, 45 | 10:15-10:30, 10:45-11:15)</i><br>
+- ArcGIS & the IoT [<a href="https://esri.box.com/s/y2q0a4f7movk9bk2h2o00h6se5w4rqnm">slides</a>, <a href="TODO">video</a>] <i>(Adam, 75 | 11:15-12:00, 1:00-1:30)</i><br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Real-Time GIS visualization & replay demonstration [<a href="TODO">video</a>] <i>(Adam, 8)</i><br>
 - Deployment patterns [<a href="https://esri.box.com/s/08k7wtf9duvacxwc132t1tw6xiujzkjo">slides</a>, <a href="TODO">video</a>] <i>(Adam 45 | 1:30-2:15)</i><br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Edge direct to ArcGIS demonstation [<a href="TODO">video</a>] <i>(Josh, 10)</i><br>
