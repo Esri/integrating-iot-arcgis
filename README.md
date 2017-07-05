@@ -8,9 +8,9 @@ This repository is intended as a way to share the content presented during the E
 - (Adam, 75 | 11:30-12:00, 1:00-1:45) ArcGIS & the IoT [<a href="https://esri.box.com/s/wyv1j23xc4s3vsyrdsuylka0jvj8icau">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Adam) Real-Time GIS visualization & replay demonstration [<a href="TODO">video</a>]<br>
 - Deployment patterns [<a href="https://esri.box.com/s/08k7wtf9duvacxwc132t1tw6xiujzkjo">slides</a>, <a href="TODO">video</a>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - (Josh) Edge direct to ArcGIS demonstation [<a href="TODO">video</a>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - (Marten or Adam) Edge aggregated to ArcGIS demonstration [<a href="TODO">video</a>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - (Josh) IoT platform to ArcGIS demonstration [<a href="TODO">video</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - (Josh, 15) Edge direct to ArcGIS demonstation [<a href="TODO">video</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - (Marten, 15) Edge aggregated to ArcGIS demonstration [<a href="TODO">video</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - (Josh, 10) IoT platform to ArcGIS demonstration [<a href="TODO">video</a>]<br>
 - Complimenting an IoT solution with geospatial analytic capabilities [<a href="https://esri.box.com/s/espj1rxqafb1j51t66ykp2lexnfye6p8">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Josh) Real-Time spatiotemporal analytics demonstration[<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Adam) Big Data spatiotemporal analytics demonstration[<a href="TODO">video</a>]<br>
