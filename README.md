@@ -7,7 +7,7 @@ This repository is intended as a way to share the content presented during the E
 - (Adam, 45 | 10:45-11:30) Decomposing an IoT Solution [<a href="https://esri.box.com/s/zjrkk0my1gs01q6rncp2mtl9i0r67jau">slides</a>, <a href="TODO">video</a>]<br>
 - (Adam, 75 | 11:30-12:00, 1:00-1:45) ArcGIS & the IoT [<a href="https://esri.box.com/s/wyv1j23xc4s3vsyrdsuylka0jvj8icau">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Adam) Real-Time GIS visualization & replay demonstration [<a href="TODO">video</a>]<br>
-- (Adam 20 | 1:45-2:30, 2:45-2:50) Deployment patterns [<a href="https://esri.box.com/s/08k7wtf9duvacxwc132t1tw6xiujzkjo">slides</a>, <a href="TODO">video</a>]<br>
+- (Adam 15 | 1:45-2:30) Deployment patterns [<a href="https://esri.box.com/s/08k7wtf9duvacxwc132t1tw6xiujzkjo">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Josh, 10) Edge direct to ArcGIS demonstation [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Marten, 10) Edge aggregated to ArcGIS demonstration [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - (Josh, 10) IoT platform to ArcGIS demonstration [<a href="TODO">video</a>]<br>
