@@ -5,13 +5,13 @@ This repository is intended as a way to share the content presented during the E
 - Agenda [<a href="https://esri.box.com/s/bchtawkhjdadivu1bqb7p1hn7ylkh908">slides</a>, <a href="TODO">video</a>]<br>
 - What is the IoT? [<a href="https://esri.box.com/s/apsidwlfxp2ak34nfhf45wtcgaitvear">slides</a>, <a href="TODO">video</a>]<br>
 - Decomposing an IoT Solution [<a href="https://esri.box.com/s/21eyz4e3wettsn808shzdq3zxbmgkd26">slides</a>, <a href="TODO">video</a>]<br>
-- ArcGIS & the IoT [<a href="https://esri.box.com/s/y2q0a4f7movk9bk2h2o00h6se5w4rqnm">slides</a>, <a href="TODO">video</a>]<br>
+- ArcGIS as an IoT Platform [<a href="https://esri.box.com/s/y2q0a4f7movk9bk2h2o00h6se5w4rqnm">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Real-Time GIS visualization & replay demonstration [<a href="TODO">video</a>]<br>
 - Deployment patterns [<a href="https://esri.box.com/s/08k7wtf9duvacxwc132t1tw6xiujzkjo">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Edge direct to ArcGIS demonstation [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Edge aggregated to ArcGIS demonstration [<a href="TODO">video</a>]</i><br>
 &nbsp;&nbsp;&nbsp;&nbsp; - IoT platform to ArcGIS demonstration [<a href="TODO">video</a>]</i><br>
-- Complimenting an IoT solution with geospatial analytic capabilities [<a href="https://esri.box.com/s/espj1rxqafb1j51t66ykp2lexnfye6p8">slides</a>, <a href="TODO">video</a>]<br>
+- Spatiotemporal analytic capabilities [<a href="https://esri.box.com/s/espj1rxqafb1j51t66ykp2lexnfye6p8">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Real-Time spatiotemporal analytics demonstration [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Big Data spatiotemporal analytics demonstration [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Actuation demonstration [<a href="TODO">video</a>] <i>(Josh, 20)</i><br>
