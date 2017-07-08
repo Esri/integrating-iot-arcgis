@@ -15,8 +15,8 @@ This repository is intended as a way to share the content presented during the E
 &nbsp;&nbsp;&nbsp;&nbsp; - Complementing an IoT platform with ArcGIS demonstration [video]</i><br>
 - Spatiotemporal analytic capabilities [<a href="https://esri.box.com/s/espj1rxqafb1j51t66ykp2lexnfye6p8">slides</a>, video]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Real-Time spatiotemporal analytics demonstration [video]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Big Data spatiotemporal analytics demonstration [video]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Actuation demonstration [video]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Big Data spatiotemporal analytics demonstration [<a href="https://esri.box.com/s/22omu2arl7dwjg5pniw8x9ca2lwto9v5">video</a>]<br>
 - Handling IoT scale requirements [<a href="https://esri.box.com/s/ehcdhpbw4en13ph1ixsk2rqpwrtvbzm0">slides</a>, video] <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Handling IoT scale requirements demonstration [video]<br>
 
