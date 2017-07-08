@@ -18,7 +18,9 @@ This repository is intended as a way to share the content presented during the E
 &nbsp;&nbsp;&nbsp;&nbsp; - Actuation demonstration [video]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Big Data spatiotemporal analytics demonstration [<a href="https://esri.box.com/s/22omu2arl7dwjg5pniw8x9ca2lwto9v5">video</a>]<br>
 - Handling IoT scale requirements [<a href="https://esri.box.com/s/ehcdhpbw4en13ph1ixsk2rqpwrtvbzm0">slides</a>, video] <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Handling IoT scale requirements demonstration [video]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Ingestion, streaming analytics, storage & visualization at scale demonstration [<a href="https://esri.box.com/s/vjxak3ioiswujnenfeasfh5pqz0qi19k">video</a>]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Batch analytics at scale demonstration [<a href="https://esri.box.com/s/lipfinbnhsusnexiez2mj973qvjx92q7">video</a>]<br>
+
 
 ## Licensing
 Copyright 2017 Esri
