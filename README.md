@@ -10,11 +10,9 @@ This repository is intended as a way to share the content presented during the E
 &nbsp;&nbsp;&nbsp;&nbsp; - visualization of stationary observations (map service) [<a href="https://esri.box.com/s/owiwdd1emtxu55wfuxr9t24hh5e1bma8">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - visualization of discrete observations (map service) [<a href="https://esri.box.com/s/8or3cg72qzzf5h9lp4u7ersck7vgt691">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - visualization of observations (feature service) [<a href="https://esri.box.com/s/snzegnsiowrpkb2l15j02drng4o63h65">video</a>]<br>
-
 - Deployment patterns [<a href="https://esri.box.com/s/08k7wtf9duvacxwc132t1tw6xiujzkjo">slides</a>, video]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Edge direct to ArcGIS demonstation [video]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Edge aggregated to ArcGIS demonstration [video]</i><br>
-&nbsp;&nbsp;&nbsp;&nbsp; - IoT platform to ArcGIS demonstration [video]</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Edge to ArcGIS as an IoT Platform demonstation [video]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Complementing an IoT platform with ArcGIS demonstration [video]</i><br>
 - Spatiotemporal analytic capabilities [<a href="https://esri.box.com/s/espj1rxqafb1j51t66ykp2lexnfye6p8">slides</a>, video]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Real-Time spatiotemporal analytics demonstration [video]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Big Data spatiotemporal analytics demonstration [video]<br>
