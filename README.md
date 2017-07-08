@@ -11,7 +11,7 @@ This repository is intended as a way to share the content presented during the E
 &nbsp;&nbsp;&nbsp;&nbsp; - visualization of discrete observations (map service) [<a href="https://esri.box.com/s/8or3cg72qzzf5h9lp4u7ersck7vgt691">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - visualization of observations (feature service) [<a href="https://esri.box.com/s/snzegnsiowrpkb2l15j02drng4o63h65">video</a>]<br>
 - Deployment patterns [<a href="https://esri.box.com/s/odfh24pjg2xtefbeten0mutovpwis8yn">slides</a>, video]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Edge to ArcGIS as an IoT Platform demonstation [video]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Edge to ArcGIS as an IoT Platform demonstation [<a href="https://esri.box.com/s/xozi0dlnpti66ji6jiwiq7h285970b51">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Complementing an IoT platform with ArcGIS demonstration [video]</i><br>
 - Spatiotemporal analytic capabilities [<a href="https://esri.box.com/s/7foll3f8ze1soqf6sbwit0mraig13qwp">slides</a>, video]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Real-Time spatiotemporal analytics demonstration [video]<br>
