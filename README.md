@@ -17,7 +17,6 @@ This repository is intended as a way to share the content presented during the E
 &nbsp;&nbsp;&nbsp;&nbsp; - Actuation demonstration [<a href="TODO">video</a>] <i>(Josh, 20)</i><br>
 - Handling IoT scale requirements [<a href="https://esri.box.com/s/ehcdhpbw4en13ph1ixsk2rqpwrtvbzm0">slides</a>, <a href="TODO">video</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Handling IoT scale requirements demonstration [<a href="TODO">video</a>]<br>
-- Trends on the horizon [<a href="https://esri.box.com/s/josxra2o6b1ypa6syqsq1lqh6mayrjn4">slides</a>, <a href="TODO">video</a>]<br>
 
 ## Licensing
 Copyright 2017 Esri
