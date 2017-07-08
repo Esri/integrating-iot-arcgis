@@ -14,8 +14,8 @@ This repository is intended as a way to share the content presented during the E
 - Spatiotemporal analytic capabilities [<a href="https://esri.box.com/s/espj1rxqafb1j51t66ykp2lexnfye6p8">slides</a>, <a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Real-Time spatiotemporal analytics demonstration [<a href="TODO">video</a>]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Big Data spatiotemporal analytics demonstration [<a href="TODO">video</a>]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Actuation demonstration [<a href="TODO">video</a>] <i>(Josh, 20)</i><br>
-- Handling IoT scale requirements [<a href="https://esri.box.com/s/ehcdhpbw4en13ph1ixsk2rqpwrtvbzm0">slides</a>, <a href="TODO">video</a> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Actuation demonstration [<a href="TODO">video</a>]<br>
+- Handling IoT scale requirements [<a href="https://esri.box.com/s/ehcdhpbw4en13ph1ixsk2rqpwrtvbzm0">slides</a>, <a href="TODO">video</a>] <br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Handling IoT scale requirements demonstration [<a href="TODO">video</a>]<br>
 
 ## Licensing
