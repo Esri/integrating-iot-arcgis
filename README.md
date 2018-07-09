@@ -18,10 +18,10 @@ This repository is intended as a way to share the content presented during the E
 &nbsp;&nbsp;&nbsp;&nbsp; - Actuation demonstration<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Big Data spatiotemporal analytics demonstration [<a href="https://esri.box.com/s/wg40yy9dshbu0r274a02oxmclmv7prdg">video</a>]<br>
 - Road Ahead: ArcGIS Analytics for IoT [<a href="https://esri.box.com/s/h4wpptixo50cg1mivgv2bos5s0ksvyqq">slides</a>] <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - ArcGIS Analytics for IoT [<a href="https://esri.box.com/s/6rurr92jbipmexth82hhzpzvf6mab158">video</a>]<br>&nbsp;&nbsp;&nbsp;&nbsp;
-- Trends on the Horizon [<a href="https://esri.box.com/s/dm0kqcnkvl8rqc425ixysygf8xnmx5dl">slides</a>] <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - ArcGIS Analytics for IoT [<a href="https://esri.box.com/s/6rurr92jbipmexth82hhzpzvf6mab158">video</a>]&nbsp;&nbsp;&nbsp;&nbsp;
+- Trends on the Horizon [<a href="https://esri.box.com/s/dm0kqcnkvl8rqc425ixysygf8xnmx5dl">slides</a>] 
 &nbsp;&nbsp;&nbsp;&nbsp; 
-- Additional Resources [<a href="https://esri.box.com/s/o23krsbyi9684ahprf73r5wiw1bxmp4t">slides</a>] <br>
+- Additional Resources [<a href="https://esri.box.com/s/o23krsbyi9684ahprf73r5wiw1bxmp4t">slides</a>] 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
 
